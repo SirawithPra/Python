@@ -13,4 +13,4 @@ print(len(set(elements)))
 
 for element, count in counts.items():
     print(count, end=' ')
-print('yes')
+print("it's ok")
